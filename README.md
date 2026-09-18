@@ -1,9 +1,9 @@
 # uNote
 
-**uNote** is a native BlackBerry 10 application designed for seamless multitasking. It enables users to stream or play audio and video files while taking side-by-side notes on a single screen.
+**uNote** is a native BlackBerry 10 application designed for seamless multitasking. It enables users to play audio and video files while taking side-by-side notes on a single screen.
 
 ### Key Features
-* **Integrated Experience:** Play media and take structured notes simultaneously.
+* **Integrated Experience:** Play media and take notes simultaneously.
 * **Smart Navigation:** Easily skip forward or backward using custom, adjustable skip intervals.
 * **Native Performance:** Built specifically for BlackBerry 10 for optimal efficiency and speed.
 
