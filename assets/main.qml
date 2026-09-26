@@ -144,6 +144,7 @@ TabbedPane {
                                 Label {
                                     text: "No media file loaded!"
                                     horizontalAlignment: HorizontalAlignment.Center
+                                    textStyle.color: Color.White
                                 }
                             }
                             horizontalAlignment: HorizontalAlignment.Fill

@@ -7,7 +7,6 @@ simulator-Debug/
 simulator-Release/
 
 # Otomatik üretilen derleme dosyaları
-Makefile
 *.o
 *.obj
 *.gch

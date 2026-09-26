@@ -1,13 +1,7 @@
 1
-48
+40
 about.qml
 AppCover.qml
-help/Step1.png
-help/Step2.png
-help/Step3.png
-help/Step4.png
-help/Step5.png
-help.qml
 image/bbIcon.png
 image/bos.png
 image/greyIcon.png
@@ -46,5 +40,3 @@ image/uNote.png
 image/youtube.png
 main.qml
 settings.qml
-youtube.html
-youtube.qml
